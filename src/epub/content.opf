@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-04-08T20:38:11Z</dc:date>
+		<meta property="dcterms:modified">2026-04-08T20:38:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,13 +43,13 @@
 		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">A female painter becomes the court artist of the Empress Dowager of China.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In 1903, &lt;a href="https://standardebooks.org/ebooks/katharine-a-carl"&gt;Katharine A. Carl&lt;/a&gt; an American painter, received an invitation from Sarah Pike Conger, wife of the American minister to China, to be presented before the Chinese imperial court to paint a portrait of Cixi, the Empress Dowager, to be exhibited at the Louisiana Purchase Exposition in St. Louis. After an initial sketching session, Carl was invited by the Empress Dowager to stay with her imperial court, first for a matter of days, and then for an extended period of several months. In doing so, Carl became the first person to paint a Western-style portrait of Empress Dowager Cixi and was one of the only Westerners to have lived with the Chinese imperial court during the last decade of the Qing dynasty. &lt;i&gt;With the Empress Dowager of China&lt;/i&gt; describes Carl’s travels and interactions with her court, including her recollections of the Empress Dowager’s reactions to crises like the Russo-Japanese War.&lt;/p&gt;
+			&lt;p&gt;In 1903, &lt;a href="https://standardebooks.org/ebooks/katharine-a-carl"&gt;Katharine A. Carl&lt;/a&gt;, an American painter, received an invitation from Sarah Pike Conger, wife of the American minister to China, to be presented before the Chinese imperial court to paint a portrait of Cixi, the Empress Dowager, for exhibition at the Louisiana Purchase Exposition in St. Louis. After an initial sketching session, Carl was invited by the Empress Dowager to stay with her imperial court, first for a matter of days, and then for an extended period of several months. In doing so, Carl became the first person to paint a Western-style portrait of Empress Dowager Cixi and was one of the only Westerners to have lived with the Chinese imperial court during the last decade of the Qing dynasty. &lt;i&gt;With the Empress Dowager of China&lt;/i&gt; describes Carl’s travels and interactions with her court, including her recollections of the Empress Dowager’s reactions to crises like the Russo-Japanese War.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75210</dc:source>
 		<dc:source>https://archive.org/details/withempressdowag00carliala</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">81459</meta>
+		<meta property="se:reading-ease.flesch">54.66</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/katharine-a-carl_with-the-empress-dowager-of-china</meta>
 		<dc:creator id="author">Katharine A. Carl</dc:creator>
 		<meta property="file-as" refines="#author">Carl, Katharine A.</meta>
@@ -81,6 +81,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
