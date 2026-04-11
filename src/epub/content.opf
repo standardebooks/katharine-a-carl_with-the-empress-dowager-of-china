@@ -59,6 +59,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">art</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="transcriber-1">Aaron Adrignola</dc:contributor>
