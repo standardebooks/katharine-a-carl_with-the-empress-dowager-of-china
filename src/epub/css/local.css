@@ -34,12 +34,12 @@ section[epub|type~="dedication"] > p:last-of-type{
 }
 
 section[epub|type~="dedication"] footer p:first-of-type{
-	margin-right: 10vw;
+	margin-right: 10%;
 }
 
 section[epub|type~="dedication"] footer p:last-of-type{
 	font-style: italic;
-	margin-left: 10vw;
+	margin-left: 10%;
 	text-align: initial;
 	text-indent: 0;
 }
