@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china</dc:identifier>
 		<dc:date>2026-04-08T20:38:11Z</dc:date>
@@ -42,10 +42,10 @@
 		<meta property="term" refines="#subject-3">sh2008100605</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:description id="description">A female painter becomes the court artist of the Empress Dowager of China.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A female painter becomes the court artist of the Empress Dowager of China.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In 1903, &lt;a href="https://standardebooks.org/ebooks/katharine-a-carl"&gt;Katharine A. Carl&lt;/a&gt;, an American painter, received an invitation from Sarah Pike Conger, wife of the American minister to China, to be presented before the Chinese imperial court to paint a portrait of Cixi, the Empress Dowager, for exhibition at the Louisiana Purchase Exposition in St. Louis. After an initial sketching session, Carl was invited by the Empress Dowager to stay with her imperial court, first for a matter of days, and then for an extended period of several months. In doing so, Carl became the first person to paint a Western-style portrait of Empress Dowager Cixi and was one of the only Westerners to have lived with the Chinese imperial court during the last decade of the Qing dynasty. &lt;i&gt;With the Empress Dowager of China&lt;/i&gt; describes Carl’s travels and interactions with her court, including her recollections of the Empress Dowager’s reactions to crises like the Russo-Japanese War.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75210</dc:source>
 		<dc:source>https://archive.org/details/withempressdowag00carliala</dc:source>
