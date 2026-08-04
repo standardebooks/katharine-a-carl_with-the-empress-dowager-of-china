@@ -42,7 +42,7 @@
 		<meta property="term" refines="#subject-3">sh2008100605</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:abstract>A female painter becomes the court artist of the Empress Dowager of China.</dc:abstract>
+		<meta property="schema:abstract">A female painter becomes the court artist of the Empress Dowager of China.</meta>
 		<dc:description>
 			&lt;p&gt;In 1903, &lt;a href="https://standardebooks.org/ebooks/katharine-a-carl"&gt;Katharine A. Carl&lt;/a&gt;, an American painter, received an invitation from Sarah Pike Conger, wife of the American minister to China, to be presented before the Chinese imperial court to paint a portrait of Cixi, the Empress Dowager, for exhibition at the Louisiana Purchase Exposition in St. Louis. After an initial sketching session, Carl was invited by the Empress Dowager to stay with her imperial court, first for a matter of days, and then for an extended period of several months. In doing so, Carl became the first person to paint a Western-style portrait of Empress Dowager Cixi and was one of the only Westerners to have lived with the Chinese imperial court during the last decade of the Qing dynasty. &lt;i&gt;With the Empress Dowager of China&lt;/i&gt; describes Carl’s travels and interactions with her court, including her recollections of the Empress Dowager’s reactions to crises like the Russo-Japanese War.&lt;/p&gt;
 		</dc:description>
