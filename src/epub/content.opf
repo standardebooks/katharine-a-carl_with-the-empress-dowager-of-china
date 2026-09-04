@@ -34,10 +34,10 @@
 		<dc:subject id="subject-1">Cixi, Empress dowager of China, 1835-1908</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
-		<dc:subject id="subject-2">Empresses -- China -- Biography</dc:subject>
+		<dc:subject id="subject-2">Empresses--China--Biography</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008103029</meta>
-		<dc:subject id="subject-3">China -- Court and courtiers</dc:subject>
+		<dc:subject id="subject-3">China--Court and courtiers</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008100605</meta>
 		<meta property="schema:genre">Nonfiction</meta>
